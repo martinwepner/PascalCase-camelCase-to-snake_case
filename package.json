@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "^1.23.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/martinwepner/PascalCase-camelCase-to-snake_case.git"
+	},
 	"categories": [
 		"Other"
 	],
