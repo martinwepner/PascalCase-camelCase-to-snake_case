@@ -1,4 +1,4 @@
-# mssql-postgres-type-converter README
+# PascalCase/camelCase to snake_case
 
 Converts PascalCase or camelCase strings into snake_case strings. Useful if you want to migrate from e.g. T-SQL to PostgreSQL Statements
 
