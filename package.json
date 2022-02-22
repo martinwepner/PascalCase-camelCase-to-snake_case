@@ -22,7 +22,7 @@
         "commands": [
             {
                 "command": "pascalCamel2Snake",
-                "title": "PascalCase/camelCase -> snack_case"
+                "title": "PascalCase/camelCase -> snake_case"
             }
         ]
     },
