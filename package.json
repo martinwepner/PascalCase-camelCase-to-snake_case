@@ -2,7 +2,7 @@
     "name": "pascalcase-camelcase-to-snakecase-converter",
     "displayName": "PascalCase/camelCase to snake_case",
     "description": "Simple VS Code Extension",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "martinwepner",
     "engines": {
         "vscode": "^1.23.0"
